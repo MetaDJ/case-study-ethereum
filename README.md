@@ -6,21 +6,6 @@ Ethereum is a platform that allows users to send cryptocurrency and use decentra
  
 ## Business Activities:
  
-* What specific financial problem is the company or project trying to solve?
- 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
- 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
- 
-* What has been the business impact of this company so far?
- 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
- 
-* How is your company performing relative to competitors in the same domain?
- 
-* What are the other major companies in this domain?
- 
 ### Market
  
 Ethereum is a programmable blockchain that makes finanical services more accesible, secure, and censorship-resistant. It gives autonomy to users which include developers, institutions, and individuals. There are over 150 million unique Ethereum adresses and this continues to grow.
@@ -45,10 +30,6 @@ Ethereum was the first platform to introduce blockchain based smart contracts. T
  
 ## Landscape:
  
-* What domain of the financial industry is the company in?
- 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
- 
 ### Overview
  
 Ethereum's use cases include decentralized finance (DEFI), non-fungible tokens (NFTs), and decentralized autonomous organizations (DAOs).
@@ -62,20 +43,12 @@ DEFI is a global financial system that is accesible to anyone who has access to 
 NFTs are tokens that represent ownership of a unique items. Non-Fungible assets are unique and cannot be replaced with an equivalent asset whereas fungible assets are equiavlent to an identical asset and can be exchanged one-to-one. Use cases for NFTs include digital art, collectibles, experiences, and real estate. Creators have complete ownership of NFTs and can trade them through marketplaces using Ethereum. To instill integrity within markets, each NFT minted has a unique indentifier with a level of scarcity defined by its creater. NFTS give more control to creaters and eliminates the need for intermediates.
  
  
-### De#centralized Autonomous Organizations (DAOs)
+### Decentralized Autonomous Organizations (DAOs)
  
 DAOs are member-owned communities that are run on the internet. Decisions within these communities must be made democratically with no single authority that can overide the majority. This creates trust and allows for a more interactive environment where each member can have an equal impact on the development of a community. Use cases include charities, freelancer networks, and ventures. All of this is possible through the use of Ethereum and smart contracts. 
  
  
 ## Recommendations
- 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
- 
-* Why do you think that offering this product or service would benefit the company?
- 
-* What technologies would this additional product or service utilize?
- 
-* Why are these technologies appropriate for your solution?
  
 Ethereum is constantly developing with changes being proposed through Ethereum Improvement Proposals (EIPs). While I could reomend a specific technology or functionality, I'd like to recomend how the Ethereum Foundation could help accelerate the adoption of blockchain and cryptocurrency. Many people don't understand what Ethereum is and are either afraid of skeptical of getting involved. The Ethereum website has a lot of resources on its webiste, but it requieres individuals to know what they are looking for. I am recomending the Ethereum Foundation supports the development of DAOs focused on educating individuals about Ethereum and blockchain. They could get involved with educational systems throughout the world and help develop curriculems that teach individuals how to use Ethereum or even become developers. This would lead to an increase in adoption which would help Ethereum grow and continue to strengthen the network.
  
