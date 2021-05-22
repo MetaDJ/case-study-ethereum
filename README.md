@@ -28,7 +28,7 @@ Ethereum utilizes proof of work to verify transactions. This involves nodes (com
  
 Ethereum was the first platform to introduce blockchain based smart contracts. These allow for transactions or agreements to to be programmed and execute only if all conditions are met. Smart contracts are more efficient and secure compared to traditional contracts since they eliminate intermediates and the possiblity of interference or manipulation. The smart contract language for Etheruem is called Solodity and the Ethereum Virtual Machine (EVM) executes smart contracts on the Ethereum blockchain.
  
-## Landscape:
+## Landscape
  
 ### Overview
  
